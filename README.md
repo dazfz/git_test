@@ -14,3 +14,7 @@ git add .
 git commit   
 git log  
 git push  
+
+##
+- git commit --amend // reemplazar ulitmo commit
+- git rebase -i HEAD~2 // edit the last two commits
